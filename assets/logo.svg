@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0d0d0d"/>
+      <stop offset="100%" style="stop-color:#1a1a2e"/>
+    </linearGradient>
+    <linearGradient id="bubble" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#ffffff;stop-opacity:0.15"/>
+      <stop offset="100%" style="stop-color:#ffffff;stop-opacity:0.05"/>
+    </linearGradient>
+    <radialGradient id="shine" cx="35%" cy="35%" r="50%">
+      <stop offset="0%" style="stop-color:#ffffff;stop-opacity:0.3"/>
+      <stop offset="100%" style="stop-color:#ffffff;stop-opacity:0"/>
+    </radialGradient>
+  </defs>
+  <rect width="200" height="200" rx="40" fill="url(#bg)"/>
+  <circle cx="100" cy="100" r="55" fill="url(#bubble)" stroke="rgba(255,255,255,0.2)" stroke-width="1.5"/>
+  <circle cx="100" cy="100" r="55" fill="url(#shine)"/>
+  <circle cx="80" cy="82" r="8" fill="rgba(255,255,255,0.15)"/>
+  <text x="100" y="112" text-anchor="middle" font-family="system-ui,-apple-system,sans-serif" font-size="28" font-weight="700" fill="rgba(255,255,255,0.9)" letter-spacing="1">HQ</text>
+</svg>

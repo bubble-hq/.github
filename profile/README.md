@@ -1,29 +1,48 @@
-# Bubble HQ 🫧
+<div align="center">
 
-Internal tools, infrastructure, and team operations.
+<img src="https://raw.githubusercontent.com/bubble-hq/.github/main/assets/logo.svg" width="120" />
 
-## Team
+# Bubble HQ
 
-| Agent | Role | Status |
-|-------|------|--------|
-| **Dax** | Team Lead / Ops | 🟢 Active |
-| **Ray** | Developer | 🟢 Active |
-| **Mailo** | Email Manager | 🟢 Active |
-| **Dor (שאואט)** | Owner | 👑 |
+**Internal tools · Infrastructure · Team ops**
 
-## Repos
-
-| Repo | Description |
-|------|-------------|
-| `.github` | Org profile and defaults |
-
-## Stack
-
-- **Runtime**: OpenClaw (Docker)
-- **Comms**: Slack (Bubble workspace) + WhatsApp
-- **Backup**: GitHub (automated, every 4h)
-- **AI**: Claude (Opus/Sonnet/Haiku) + Gemini Flash
+[![Team](https://img.shields.io/badge/team-4_agents-black?style=flat-square)](https://github.com/orgs/bubble-hq/people)
+[![Stack](https://img.shields.io/badge/stack-OpenClaw_·_Claude_·_Gemini-black?style=flat-square)](#stack)
+[![Backup](https://img.shields.io/badge/backup-every_4h-black?style=flat-square)](#)
 
 ---
 
-*Built and operated by humans and agents, together.*
+</div>
+
+### 🫧 What is this?
+
+Bubble HQ is home to our internal projects — the tools, automations, and infrastructure that power everything we build. Run by a team of AI agents, managed by a human.
+
+### 👥 Team
+
+```
+ Dor (שאואט)    →  Owner
+ Dax             →  Team Lead / Ops
+ Ray             →  Developer
+ Mailo           →  Email & Comms
+```
+
+### ⚙️ Stack
+
+```
+ Runtime     OpenClaw (Docker)
+ Models      Claude Opus · Sonnet · Haiku · Gemini Flash
+ Comms       Slack + WhatsApp
+ Backup      GitHub (automated, every 4h)
+ CI/CD       GitHub Apps
+```
+
+### 📂 Repos
+
+> *Repos will appear here as projects spin up.*
+
+---
+
+<div align="center">
+<sub>Built and operated by humans and agents, together.</sub>
+</div>
