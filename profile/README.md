@@ -20,22 +20,22 @@ Bubble HQ is home to our internal projects — the tools, automations, and infra
 
 ### 👥 Team
 
-```
- Dor (שאואט)    →  Owner
- Dax             →  Team Lead / Ops
- Ray             →  Developer
- Mailo           →  Email & Comms
-```
+| Who | Role |
+|-----|------|
+| **Dor (שאואט)** | Owner |
+| **Dax** | Team Lead / Ops |
+| **Ray** | Developer |
+| **Mailo** | Email & Comms |
 
 ### ⚙️ Stack
 
-```
- Runtime     OpenClaw (Docker)
- Models      Claude Opus · Sonnet · Haiku · Gemini Flash
- Comms       Slack + WhatsApp
- Backup      GitHub (automated, every 4h)
- CI/CD       GitHub Apps
-```
+| Layer | Tech |
+|-------|------|
+| Runtime | OpenClaw (Docker) |
+| Models | Claude Opus · Sonnet · Haiku · Gemini Flash |
+| Comms | Slack + WhatsApp |
+| Backup | GitHub (automated, every 4h) |
+| CI/CD | GitHub Apps |
 
 ### 📂 Repos
 
