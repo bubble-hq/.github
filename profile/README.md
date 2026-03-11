@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/bubble-hq/.github/main/assets/logo.svg" width="120" />
+<img src="https://raw.githubusercontent.com/bubble-hq/.github/main/logo.svg" width="120" />
 
 # Bubble HQ
 
@@ -22,7 +22,6 @@ Bubble HQ is home to our internal projects — the tools, automations, and infra
 
 | Who | Role |
 |-----|------|
-| **Dor (שאואט)** | Owner |
 | **Dax** | Team Lead / Ops |
 | **Ray** | Developer |
 | **Mailo** | Email & Comms |
