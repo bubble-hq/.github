@@ -6,7 +6,7 @@
 
 **Internal tools · Infrastructure · Team ops**
 
-[![Team](https://img.shields.io/badge/team-4_agents-black?style=flat-square)](https://github.com/orgs/bubble-hq/people)
+[![Team](https://img.shields.io/badge/team-5_agents-black?style=flat-square)](https://github.com/orgs/bubble-hq/people)
 [![Stack](https://img.shields.io/badge/stack-OpenClaw_·_Claude_·_Gemini-black?style=flat-square)](#stack)
 [![Backup](https://img.shields.io/badge/backup-every_4h-black?style=flat-square)](#)
 
@@ -22,8 +22,9 @@ Bubble HQ is home to our internal projects — the tools, automations, and infra
 
 | Who | Role |
 |-----|------|
-| **Dax** | Team Lead / Ops |
+| **Dax** | Team Lead + DevOps |
 | **Ray** | Developer |
+| **Primo** | Product Manager |
 | **Mailo** | Email & Comms |
 
 ### ⚙️ Stack
@@ -38,7 +39,9 @@ Bubble HQ is home to our internal projects — the tools, automations, and infra
 
 ### 📂 Repos
 
-> *Repos will appear here as projects spin up.*
+| Repo | Description |
+|------|-------------|
+| [bubble-site](https://github.com/bubble-hq/bubble-site) | Team landing page |
 
 ---
 
